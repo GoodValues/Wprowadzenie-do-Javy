@@ -1,0 +1,30 @@
+Mateusz kupił  rower  marki  Kellys dnia 30-09-2019
+Mateusz kupił  samochód  marki  Bugatti dnia 23-10-2019
+ Filip kupił  rower  marki  Romet dnia 19-10-2019
+ Filip kupił  samochód  marki  BMW dnia 07-11-2019
+ John kupił  rower  marki  Betwin dnia 12-10-2019
+ John kupił  samochód  marki  Subaru dnia 13-12-2019
+ Jessica kupił  rower  marki  Kellys dnia 30-09-2019
+ Jessica kupił  samochód  marki Audi dnia 21-10-2019
+ Kuba kupił  rower  marki  Betwin dnia 12-10-2019
+ Kuba kupił  samochód  marki  Porsche dnia 10-12-2019
+Mateusz kupił  rower  marki Giant dnia 02-11-2019
+Mateusz kupił  samochód  marki  BMW dnia 17-11-2019
+Filip kupił  rower  marki  Kellys dnia 22-11-2019
+Filip kupił  samochód  marki  Opel dnia 04-12-2019
+John kupił  rower  marki  Kellys dnia 22-11-2019
+John kupił  samochód  marki  BMW dnia 17-11-2019
+Jessica kupił  rower  marki  Romet dnia 19-10-2019
+Jessica kupił  samochód  marki  Opel dnia 04-12-2019
+Kuba kupił  rower  marki  Merida dnia 25-10-2019
+Kuba kupił  samochód  marki  Porsche dnia 07-11-2019
+Mateusz kupił  rower  marki  Merida dnia 25-12-2019
+Mateusz kupił  samochód  marki  VW dnia 29-12-2019
+Filip kupił  rower  marki  Betwin dnia 20-10-2019
+Filip kupił  samochód  marki  Subaru dnia 20-11-2019
+John kupił  rower  marki Giant dnia 02-01-2020
+John kupił  samochód  marki  Subaru dnia 20-11-2019
+Jessica kupił  rower  marki  Betwin dnia 20-10-2019
+Jessica kupił  samochód  marki  Bugatti dnia 09-12-2019
+Kuba kupił  rower  marki  Betwin dnia 20-10-2019
+Kuba kupił  samochód  marki  BMW dnia 13-10-2019

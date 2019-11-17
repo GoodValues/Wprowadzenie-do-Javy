@@ -9,8 +9,8 @@ public class ListofListsMain {
         //ArrayList<String> lista=new ArrayList<String>();
         ListOfCities miastaPolski=new ListOfCities();
         List<ListOfCities> listOfLists=new ArrayList<ListOfCities>();
-        miastaPolski.add("Wro");
-        miastaPolski.add("Wawa");
+        miastaPolski.add("gdansk");
+        miastaPolski.add("wioseczka");
         listOfLists.add(miastaPolski);
         listOfLists.add(miastaPolski);
 
